@@ -15,4 +15,4 @@ dj-database-url==2.2.0
 python-decouple==3.8
 
 # ✅ PostgreSQL driver (ONLY ONE – SSL safe, Python 3.13 compatible)
-psycopg2-binary==2.9.9
+psycopg[binary]==3.3.3
